@@ -48,7 +48,7 @@ public class ProductServiceTests {
 	private PageImpl<Product> page;
 	private Product product;
 	private Category category;
-	ProductDTO productDto;
+	private ProductDTO productDto;
 	
 	@BeforeEach
 	void setUp() throws Exception{
